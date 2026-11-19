@@ -1,0 +1,25 @@
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" font-family="Carlito, Calibri, sans-serif">
+  <circle cx="300" cy="300" r="290" fill="#72cce6"/>
+  <circle cx="300" cy="300" r="262" fill="none" stroke="#d3de77" stroke-width="3"/>
+  <g transform="translate(0,24)"><!-- E -->
+  <text x="205" y="395" font-size="300" font-weight="bold" fill="#FFFFFF" text-anchor="middle">E</text><g transform="translate(0,5)">
+  <!-- stopwatch crown -->
+  <rect x="374" y="135.0" width="22" height="26" fill="#FFFFFF"/>
+  <rect x="366" y="123.0" width="38" height="12" rx="4" fill="#FFFFFF"/>
+  <!-- side button -->
+  <g transform="rotate(38 385 222)">
+    <rect x="377" y="139.0" width="16" height="18" rx="3" fill="#FFFFFF"/>
+  </g>
+  <!-- the 8 as stopwatch: two circles -->
+  <circle cx="385" cy="222" r="50" fill="#72cce6" stroke="#FFFFFF" stroke-width="26"/>
+  <circle cx="385" cy="340" r="76" fill="#72cce6" stroke="#FFFFFF" stroke-width="26"/>
+  <path d="M 385 340 L 385.00 281.00 A 59.0 59.0 0 0 1 428.85 300.52 Z" fill="#d3de77"/>
+  <line x1="385.0" y1="283.0" x2="385.0" y2="291.0" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="413.5" y1="290.6" x2="409.5" y2="297.6" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="434.4" y1="311.5" x2="427.4" y2="315.5" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="442.0" y1="340.0" x2="434.0" y2="340.0" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="434.4" y1="368.5" x2="427.4" y2="364.5" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="413.5" y1="389.4" x2="409.5" y2="382.4" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="385.0" y1="397.0" x2="385.0" y2="389.0" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="356.5" y1="389.4" x2="360.5" y2="382.4" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="335.6" y1="368.5" x2="342.6" y2="364.5" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="328.0" y1="340.0" x2="336.0" y2="340.0" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="335.6" y1="311.5" x2="342.6" y2="315.5" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/><line x1="356.5" y1="290.6" x2="360.5" y2="297.6" stroke="#3B3B3D" stroke-width="3" opacity="0.85"/>
+  <line x1="385" y1="340" x2="425.9" y2="303.2" stroke="#3B3B3D" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="385" cy="340" r="7" fill="#3B3B3D"/>
+  </g></g><!-- arc text -->
+  <defs><path id="botarcA" d="M 109.96 433.07 A 232 232 0 1 1 490.04 433.07"/></defs>
+  <text font-size="34" font-weight="bold" fill="#3B3B3D" letter-spacing="6">
+    <textPath href="#botarcA" startOffset="50%" text-anchor="middle">EDUCATION IN 8 MINUTES OR LESS</textPath>
+  </text>
+</svg>
